@@ -1,4 +1,6 @@
-### 此源码来自https://mkblog.cn/孟坤博客，本人演示网站为：https://music.hxxzt.com/，本人博客：hxxzt.com
+### 此源码来自:https://mkblog.cn/
+### 本人演示网站为：https://music.hxxzt.com/
+### 本人博客：https://hxxzt.com/
 
 MKOnlineMusicPlayer
 ========
